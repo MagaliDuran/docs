@@ -80,6 +80,12 @@ non-fixed relations should not use this feature.
 
 * _<b>além</b>-Pirinéus_
 
+### <a name="PRON">`PRON`</a>: compound pronoun
+
+#### Examples
+
+* _<b>O que</b> você quer?_
+* _Esse é o número para <b>o qual</b> eu telefonei._
 
 ### <a name="NUM">`NUM`</a>: numbers
 
